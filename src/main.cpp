@@ -9,7 +9,7 @@ void setup() {
 }
 
 void loop() {
-DigiKeyboard.sendKeyStroke(0) ; 
+    
 DigiKeyboard.sendKeyStroke(KEY_SPACE,MOD_GUI_LEFT) ; 
 DigiKeyboardFr.delay(500) ; 
 
